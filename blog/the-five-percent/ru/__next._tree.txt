@@ -1,0 +1,7 @@
+:HL["/_next/static/chunks/1c8b4eb4cf7e1121.css","style"]
+:HL["/_next/static/chunks/930bd445a0afc10e.css","style"]
+:HL["/_next/static/media/248e1dc0efc99276-s.p.8a6b2436.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/70bc3e132a0a741e-s.p.15008bfb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/32d142b893073891.css","style"]
+:HL["/_next/static/chunks/537cdcb2470d709d.css","style"]
+0:{"buildId":"oBseiRXyiDkpA1VT4AnL6","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"c","paramKey":"the-five-percent/ru","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
